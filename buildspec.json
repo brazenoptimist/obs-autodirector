@@ -33,10 +33,10 @@
     },
     "platformConfig": {
         "macos": {
-            "bundleId": "com.example.obs-plugintemplate"
+            "bundleId": "com.example.obs-autodirector"
         }
     },
-    "name": "obs-plugintemplate",
+    "name": "obs-autodirector",
     "displayName": "OBS Plugin Template",
     "version": "1.0.0",
     "author": "Your Name Here",
