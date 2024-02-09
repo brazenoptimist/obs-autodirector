@@ -24,7 +24,7 @@ OBS_MODULE_USE_DEFAULT_LOCALE(PLUGIN_NAME, "en-US")
 
 bool obs_module_load(void)
 {
-	obs_log(LOG_INFO, "plugin loaded successfully (version %s)",
+	obs_log(LOG_INFO, "plugin loaded successfully!!!123123 (version %s)",
 		PLUGIN_VERSION);
 	return true;
 }
